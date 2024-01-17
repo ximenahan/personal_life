@@ -24,3 +24,5 @@ pnpm-lock.yaml
 TODO.md
 cache/
 *.log
+public/google-chrome-stable_current_amd64.deb
+
